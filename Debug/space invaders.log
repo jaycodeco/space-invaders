@@ -1,0 +1,11 @@
+﻿  Bullet.cpp
+  Bullets.cpp
+  Enemies.cpp
+C:\Users\ACER\Documents\PROJECTS\space invaders\Enemies.cpp(51,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ACER\Documents\PROJECTS\space invaders\Enemies.cpp(63,23): warning C4018: '<': signed/unsigned mismatch
+  Enemy.cpp
+  Player.cpp
+  Ship.cpp
+  main.cpp
+  Generating Code...
+  space invaders.vcxproj -> C:\Users\ACER\Documents\PROJECTS\space invaders\Debug\space invaders.exe

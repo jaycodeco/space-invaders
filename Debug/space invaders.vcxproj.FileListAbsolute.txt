@@ -1,0 +1,2 @@
+C:\Users\ACER\Documents\PROJECTS\space invaders\Debug\space invaders.exe
+C:\Users\ACER\Documents\PROJECTS\space invaders\Debug\space invaders.pdb
